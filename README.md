@@ -6,6 +6,7 @@
 
 ![Henry GitHub stats](https://github-readme-stats.vercel.app/api?username=HenryNascimentoSilva&show_icons=true&theme=dark)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HenryNascimentoSilva&hide_progress=true)](https://github.com/anuraghazra/github-readme-stats)
 ### Habilidades
 <div style="display: inlineblock"><br/>
 <img aling = "center" alt="python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
