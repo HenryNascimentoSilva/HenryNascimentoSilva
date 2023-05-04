@@ -1,8 +1,8 @@
 ### Olá Meu nome é Henry ! 👋
 <div>
   <a href="https://github.com/HenryNascimentoSilva">
-    <img height="150em" src="https://github-readme-stats.vercel.app/api?username=HenryNascimentoSilva&show_icons=true&theme=dark"/>
-    <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HenryNascimentoSilva&theme=dark"/>
+    <img height="160em" src="https://github-readme-stats.vercel.app/api?username=HenryNascimentoSilva&show_icons=true&theme=dark"/>
+    <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HenryNascimentoSilva&theme=dark"/>
     
 <div style="display: inline_block"><br>
   <img height="50em" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"/>
